@@ -8,6 +8,6 @@ int minNumber(int a, int b) {
 
 int main() {
     int minOfTwoNumbers = minNumber(1, 6);
-    std::cout << "Minimum number is = " << minOfTwoNumbers;
+    std::cout << "The Minimum number is = " << minOfTwoNumbers;
     return 0;
 }
